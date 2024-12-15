@@ -77,7 +77,7 @@ The **neural network** outperformed other models due to its ability to model non
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/cadencechang/Datafy_Final.git
+git clone https://github.com/krackalackel02/Datafy.git
 ```
 
 2. Run the code:
