@@ -1,8 +1,7 @@
 # Predicting Song Popularity with Machine Learning
 
 ## Final Project Code
-The complete project code is available on [GitHub](https://github.com/krackalackel02/Datafy).
-
+The complete project code is available on [GitHub](https://github.com/krackalackel02/Datafy/blob/main/M148_Project.ipynb).
 ## Data Set
 **Data Source:** Spotify  
 We utilized the `spotify-tracks-dataset` provided by user maharshipandya on the Hugging Face platform. The dataset contains 114,000 rows, with each row representing a song and its features. The data was collected and cleaned using Spotify's API and Python.  
